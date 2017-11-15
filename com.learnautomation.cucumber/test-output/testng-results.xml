@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="9" passed="9">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="42096" started-at="2017-11-13T17:00:35Z" finished-at="2017-11-13T17:01:17Z">
+    <groups>
+    </groups>
+    <test name="Test1" duration-ms="14738" started-at="2017-11-13T17:00:35Z" finished-at="2017-11-13T17:00:50Z">
+      <class name="testng.Testng_Test">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testng.Testng_Test@224edc67]" name="launch" duration-ms="8962" started-at="2017-11-13T22:30:35Z" finished-at="2017-11-13T22:30:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="useridtest(java.lang.String, java.lang.String)[pri:1, instance:testng.Testng_Test@224edc67]" name="useridtest" duration-ms="3572" started-at="2017-11-13T22:30:44Z" finished-at="2017-11-13T22:30:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ashudulla]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[valid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useridtest -->
+        <test-method status="PASS" signature="close()[pri:2, instance:testng.Testng_Test@224edc67]" name="close" duration-ms="2143" started-at="2017-11-13T22:30:48Z" finished-at="2017-11-13T22:30:50Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testng.Testng_Test -->
+    </test> <!-- Test1 -->
+    <test name="Test2" duration-ms="13779" started-at="2017-11-13T17:00:50Z" finished-at="2017-11-13T17:01:04Z">
+      <class name="testng.Testng_Test">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testng.Testng_Test@6d4b1c02]" name="launch" duration-ms="7897" started-at="2017-11-13T22:30:50Z" finished-at="2017-11-13T22:30:58Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="useridtest(java.lang.String, java.lang.String)[pri:1, instance:testng.Testng_Test@6d4b1c02]" name="useridtest" duration-ms="3668" started-at="2017-11-13T22:30:58Z" finished-at="2017-11-13T22:31:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[asj66hh]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useridtest -->
+        <test-method status="PASS" signature="close()[pri:2, instance:testng.Testng_Test@6d4b1c02]" name="close" duration-ms="2195" started-at="2017-11-13T22:31:01Z" finished-at="2017-11-13T22:31:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testng.Testng_Test -->
+    </test> <!-- Test2 -->
+    <test name="Test3" duration-ms="13517" started-at="2017-11-13T17:01:04Z" finished-at="2017-11-13T17:01:17Z">
+      <class name="testng.Testng_Test">
+        <test-method status="PASS" signature="launch()[pri:0, instance:testng.Testng_Test@42e26948]" name="launch" duration-ms="7970" started-at="2017-11-13T22:31:04Z" finished-at="2017-11-13T22:31:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launch -->
+        <test-method status="PASS" signature="useridtest(java.lang.String, java.lang.String)[pri:1, instance:testng.Testng_Test@42e26948]" name="useridtest" duration-ms="3377" started-at="2017-11-13T22:31:12Z" finished-at="2017-11-13T22:31:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[  ]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[invalid]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- useridtest -->
+        <test-method status="PASS" signature="close()[pri:2, instance:testng.Testng_Test@42e26948]" name="close" duration-ms="2146" started-at="2017-11-13T22:31:15Z" finished-at="2017-11-13T22:31:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- close -->
+      </class> <!-- testng.Testng_Test -->
+    </test> <!-- Test3 -->
+  </suite> <!-- Suite -->
+</testng-results>
